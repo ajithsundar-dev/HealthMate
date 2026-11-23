@@ -1,0 +1,32 @@
+# Local IDE settings and Gradle caches
+.idea/
+.gradle/
+.kotlin/
+*.iml
+.externalNativeBuild/
+.cxx/
+
+# Generated build outputs
+**/build/
+**/release/
+captures/
+*.apk
+*.aab
+*.apks
+*.idsig
+*.log
+
+# Machine-specific configuration and signing credentials
+local.properties
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+secrets.properties
+.env
+.env.*
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+local.properties
