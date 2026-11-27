@@ -108,6 +108,13 @@ For a signed release APK, use Android Studio's **Build > Generate Signed Bundle 
 
 This checklist describes expected behavior; it does not record completed test results.
 
+## Developer guides
+
+- [Architecture and state flow](docs/ARCHITECTURE.md): component responsibilities, save behavior and current boundaries.
+- [Database schema and queries](docs/DATABASE.md): stored fields, search, sample data and Database Inspector.
+- [Manual verification procedures](docs/TESTING.md): test data, expected results and space to record device observations.
+- [Release APK verification](docs/RELEASE.md): signing steps and a dated check of the local release artifact.
+
 ## Author
 
 Ajithsundar Manoharan
